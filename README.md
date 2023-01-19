@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text   18 mins         ███████████████░░░░░░░░░░   59.60 %
-SQL    12 mins         ██████████░░░░░░░░░░░░░░░   40.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
