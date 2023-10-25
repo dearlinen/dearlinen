@@ -3,8 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 35 mins   ████████████████████████░   96.03 %
-Ezhil   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Other   3 hrs 8 mins    ████████████████████████▒   96.71 %
+Ezhil   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
